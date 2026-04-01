@@ -35,5 +35,5 @@ The model processes a mix of operational and engineered features:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/logistics-risk-analysis.git](https://github.com/your-username/logistics-risk-analysis.git)
+   git clone [https://github.com/Moumita-01/logistics-risk-analysis.git](https://github.com/Moumita-01/logistics-risk-analysis.git)
    cd logistics-risk-analysis
